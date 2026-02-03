@@ -1,0 +1,7 @@
+{
+  "name": "EduExam AI",
+  "description": "Hệ thống ôn thi thông minh tích hợp trí tuệ nhân tạo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
